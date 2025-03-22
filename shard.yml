@@ -1,0 +1,13 @@
+name: reddit_cr
+version: 0.1.0
+
+authors:
+  - Mina Kamel <minallkamel@gmail.com>
+
+crystal: '>= 1.15.1'
+
+dependencies:
+  dotenv:
+    github: drum445/dotenv
+
+license: MIT
